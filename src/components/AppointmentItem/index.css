@@ -1,0 +1,19 @@
+.listItem {
+  border: 1px solid #b5b7c4;
+  border-radius: 20px;
+  width: 250px;
+  padding: 20px;
+  margin: 10px;
+}
+.card6 {
+  display: flex;
+  justify-content: space-between;
+}
+.starImg {
+  height: 30px;
+  width: 30px;
+}
+.starBtn {
+  border: none;
+  background-color: transparent;
+}
